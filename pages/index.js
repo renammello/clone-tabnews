@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Git: onde o código não apenas evolui, mas também conta a história da sua criação. </h1>
+    return <h1> Gabrielly, você pode ser 🔥 às vezes, mas é sua risada 😂 e seu ❤️ enorme que me fazem te amar mais a cada dia.</h1>
 }
 
 export default Home;  
